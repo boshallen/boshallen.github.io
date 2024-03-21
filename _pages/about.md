@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am looking for PhD and research internship opportunities, please contact me if you are interested.
-huo
+
 Short Biography
 ======
 I am **Yanbo Han(韩彦博)**, currently pursuing my undergraduate degree at [Hainan University](https://www.hainanu.edu.cn/). Previously, I gained valuable research experience from inInnovative & Practice Programme for the Cultivation of High-level Internationalized Talents in Artificial Intelligence domain. Currently, I am furthering my research skills as a research undergraduate student in Skyan Group,  school of Computer Science, Hainan University, under the esteemed supervision of [Assoc.Prof.Yan](https://skyan.me/).
