@@ -22,3 +22,4 @@ You can find my CV here: [Yanbo's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 News
 ======
+\bullet
