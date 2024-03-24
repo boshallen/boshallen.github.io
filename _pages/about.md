@@ -22,4 +22,5 @@ You can find my CV here: [Yanbo's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 News
 ======
-\bullet
+* 2024.04
+* 2023.04
