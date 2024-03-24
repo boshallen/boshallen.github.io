@@ -22,5 +22,10 @@ You can find my CV here: [Yanbo's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 News
 ======
-* 2024.04
-* 2023.04
+*2024.03 InternLM Large Model Practical Camp (Second Phase) Teaching Assistant (Shanghai Artificial Intelligence Laboratory)
+*2023.12 BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering (ISMSI2024 oral)
+*2023.11 Computer Software Copyright Registration Certificate: GPT smart text detection system based on RoBERTa-RCNN and attention pooling
+*2023.09 National Second Prize, CRAIC 2023
+*2023.07 HUAWEI CLOUD Developer Certification (HCCDA-AI)
+*2023.07 2023 “AI MASTERS” in NPU international summer camp
+*2023.05 Provincial Second Prize, CRAIC 2023
