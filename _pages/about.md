@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently seeking opportunities for a PhD program and research internships. If you have any available positions or would like to discuss potential opportunities, I would greatly appreciate it if you could reach out to me. Thank you for your consideration.
+I am currently seeking opportunities for a PhD program and research internships. If you have any available position or would like to discuss potential opportunities, I would greatly appreciate it if you could reach out to me. Thank you for your consideration.
 
 Short Biography
 ======
 I am **Yanbo Han(韩彦博)**, currently pursuing my undergraduate degree at [Hainan University](https://www.hainanu.edu.cn/). Previously, I gained valuable research experience in the field of artificial intelligence in projects such as the inInnovative & Practice Programme for the Cultivation of High-level Internationalized Talents, NPU AI MASTER summer camp, and DataWhale open-source community. Currently, I am furthering my research skills as a research undergraduate student in Skyan Group,  school of Computer Science, Hainan University, under the esteemed supervision of [Assoc.Prof.Yan](https://skyan.me/).
 
-My undergraduate major is Software Engineering ([NIIT](https://www.niit.com/en/learning-outsourcing/)), and my current research interests lie in Deep Learning, Neural Network Optimization,  Natural Language Processing(Large Language Models, Knowledge graph) and MultiModal Machine Learning. I am also exploring the field of AI for Science. My current research objective is to improve the effectiveness of LLMs and devise an innovative optimization approach for NLP. Furthermore, I aim to apply my knowledge in the natural sciences, taking my first steps in the field of AI for Science. My long-term goal is to personally contribute to the advancement of Artificial Intelligence.
+My undergraduate major is Software Engineering ([NIIT](https://www.niit.com/en/learning-outsourcing/)), and my current research interests lie in Vision & Language, Computer Vision, Natural Language Processing and embodied AI. My current research objective is to improve the effectiveness of LLMs and devise an innovative optimization approach.  Furthermore, I aim to apply my knowledge in the natural science, taking my first step in the field of AI for Science. My long-term goal is to personally contribute to the advancement of Artificial Intelligence.
 
 You can find my CV here: [Yanbo's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
