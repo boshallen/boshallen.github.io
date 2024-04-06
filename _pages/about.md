@@ -26,6 +26,7 @@ News
 * 2023.12 BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering, ISMSI2024 (oral)<br />
 * 2023.11 Copyright Registration Certificate, GPT smart text detection system utilizing RoBERTa-RCNN and attention pooling<br />
 * 2023.09 National Second Prize, CRAIC 2023<br />
+* 2023.08 Participated as an inventor, invention patent application passed the preliminary examination<br />
 * 2023.07 HUAWEI CLOUD Developer Certification (HCCDA-AI)<br />
 * 2023.07 Participation in the 2023 "AI MASTER" International Summer Camp at NPU <br />
 * 2023.06 Intern at the Hainan Provincial Department of Education, Teacher Work Office <br />
