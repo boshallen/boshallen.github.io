@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanbo / Personal Homepage"
+title                    : "Yanbo Han / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yanbo"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "Yanbo Han(韩彦博)"
   pronouns         : # example: "she/her"  
   bio              : "Talk is cheap"
-  location         : "China Mainland"
-  employer         : "Hainan University"
+  location         : "Shanghai, China"
+  employer         : "Shanghai AI Lab"
   uri              : # URL
   email            : "bosh.y.han@gmail.com" 
 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-0970-7937"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Han-Yanbo"
+  researchgate     : # "https://www.researchgate.net/profile/Han-Yanbo"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -44,7 +44,7 @@ author:
   dribbble         : # Username
   github           : "boshallen"
   kaggle           : yanbohan
-  stackoverflow    : 23701232/韩彦博 # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # 23701232/韩彦博 # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : https://www.zhihu.com/people/childish-29-16/posts
+  zhihu            : # https://www.zhihu.com/people/childish-29-16/posts
 
 
 # Site Settings
