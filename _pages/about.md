@@ -30,5 +30,5 @@ News
 * 2023.08 Participated as an inventor, invention patent application passed the preliminary examination<br />
 * 2023.07 HUAWEI CLOUD Developer Certification (HCCDA-AI)<br />
 * 2023.07 Participation in the 2023 "AI MASTER" International Summer Camp at NPU <br />
-* 2023.06 Intern at the Hainan Provincial Department of Education, Teacher Work Office <br />
+* 2023.06 Intern at the Hainan Provincial Department of Education <br />
 * 2023.05 Provincial Second Prize, CRAIC 2023
