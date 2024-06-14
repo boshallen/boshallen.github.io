@@ -22,13 +22,13 @@ You can find my CV here: [Yanbo's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 News
 ======
-* 2024.05 Intern at OpenMMLab, Shanghai Artificial Intelligence Laboratory<br />
-* 2024.03 Teaching Assistant in InternLM Large Model Practical Camp (Hosted by Shanghai Artificial Intelligence Laboratory)<br />
-* 2023.12 **Yanbo Han**, Buchao Zhan, Bin Zhang, Chao Zhao, Shankai Yan* (2024 oral). BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering. ISMSI2024 <br />
-* 2023.11 Copyright Registration Certificate, GPT smart text detection system utilizing RoBERTa-RCNN and attention pooling<br />
-* 2023.09 National Second Prize, CRAIC 2023<br />
+* 2024.05 Intern at **OpenMMLab, Shanghai Artificial Intelligence Laboratory**<br />
+* 2024.03 **Teaching Assistant** in InternLM Large Model Practical Camp (Hosted by Shanghai Artificial Intelligence Laboratory)<br />
+* 2023.12 **Yanbo Han**, Buchao Zhan, Bin Zhang, Chao Zhao, Shankai Yan* (2024 oral). **BiCalBERT**: An Efficient Transformer-based Model for Chinese Question Answering. **ISMSI2024** <br />
+* 2023.11 Copyright Registration Certificate, **GPT smart text detection system** utilizing RoBERTa-RCNN and attention pooling<br />
+* 2023.09 National Second Prize, **China Robotics and Artificial IntelligenceCompetition 2023**<br />
 * 2023.08 Participated as an inventor, invention patent application passed the preliminary examination<br />
-* 2023.07 HUAWEI CLOUD Developer Certification (HCCDA-AI)<br />
+* 2023.07 HUAWEI CLOUD Developer Certification (**HCCDA-AI**)<br />
 * 2023.07 Participation in the 2023 "AI MASTER" International Summer Camp at NPU <br />
 * 2023.06 Intern at the Hainan Provincial Department of Education <br />
-* 2023.05 Provincial Second Prize, CRAIC 2023
+* 2023.05 Provincial Second Prize, China Robotics and Artificial IntelligenceCompetition 2023
